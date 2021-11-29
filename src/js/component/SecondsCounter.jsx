@@ -1,5 +1,5 @@
 import React from "react";
-
+import { FaRegClock } from "react-icons/fa";
 
 
 const SecondsCounter = () => {
@@ -7,7 +7,7 @@ const SecondsCounter = () => {
         <div className="container-fluid">
             <div className="row">
                 <div className="col-1 clock">
-                    <a></a>
+                    <a><FaRegClock /></a>
                 </div>
                 <div className="col-1">
                     <a>{Math.floor(props.count / 1000) % 10}</a>
