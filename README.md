@@ -17,7 +17,7 @@
 It's a simple seconds counter made with React. The count starts every time the website is reloaded.
 
 <p align="center">
-  <img src="./src/img/4geeks.jpg">
+  <img src="./src/img/counter.jpg">
 </p>
 
 ------------
